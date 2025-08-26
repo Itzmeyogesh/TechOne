@@ -9,7 +9,7 @@ export default function Hero() {
 
   return (
     <section
-      className="relative min-h-[90vh] pt-24 flex items-center justify-center text-center overflow-hidden bg-gradient-to-br from-indigo-700 via-purple-700 to-fuchsia-600"
+      className="relative min-h-[35vh] pt-24 flex items-center justify-center text-center overflow-hidden bg-gradient-to-br from-indigo-700 via-purple-700 to-fuchsia-600"
     >
       {/* watermark logo */}
       <div
