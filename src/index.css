@@ -2,12 +2,19 @@
 @tailwind components;
 @tailwind utilities;
 
+<<<<<<< HEAD
 /* enable smooth in-page anchor scrolling */
+=======
+/* Smooth scrolling for in-page anchors */
+>>>>>>> 971bdbf (Update)
 html {
   scroll-behavior: smooth;
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 971bdbf (Update)
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
